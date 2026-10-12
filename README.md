@@ -1,5 +1,7 @@
 # Conflux Union Hub
 
+> 👉 **在线图库**：[hub.cxu.world](https://hub.cxu.world)
+
 本仓库灵感启发于[bangbang93hub](https://github.com/Mxmilu666/bangbang93HUB/tree/main?tab=readme-ov-file)
 
 > [!WARNING]
@@ -62,6 +64,6 @@
 >
 > 另外请你注意，在**其他无关的地方请不要乱刷这些表情包**。以免为他人带来困扰
 ## 甲级战犯名单
-<a href="https://github.com/RMS-Server/Conflux-Union-Hub/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=RMS-Server/Conflux-Union-Hub" />
+<a href="https://github.com/Conflux-Union/Conflux-Union-Hub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Conflux-Union/Conflux-Union-Hub" />
 </a>
